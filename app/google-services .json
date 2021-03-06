@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "960436074896",
+    "firebase_url": "https://totalk-b9090-default-rtdb.firebaseio.com",
+    "project_id": "totalk-b9090",
+    "storage_bucket": "totalk-b9090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960436074896:android:e95c6b27b6a84f44de1b15",
+        "android_client_info": {
+          "package_name": "com.example.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960436074896-aj2gmj3rl11u006kbpis31htcbviqebv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn3zY5Yza2b3S11uMw2caX3gftJLRzdpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960436074896-aj2gmj3rl11u006kbpis31htcbviqebv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960436074896:android:fcd20ea1e0004d76de1b15",
+        "android_client_info": {
+          "package_name": "com.example.totalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960436074896-aj2gmj3rl11u006kbpis31htcbviqebv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn3zY5Yza2b3S11uMw2caX3gftJLRzdpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960436074896-aj2gmj3rl11u006kbpis31htcbviqebv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
